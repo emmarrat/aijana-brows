@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d7b0f3f.css",
-    "main.js": "/static/js/main.67f1cfef.js",
+    "main.js": "/static/js/main.583f5164.js",
     "static/media/complex.png": "/static/media/complex.4279bfa942124f1983a3.png",
     "static/media/brow-coloring.png": "/static/media/brow-coloring.aa2d8ef4f7362801ca41.png",
     "static/media/mustach-removing.jpeg": "/static/media/mustach-removing.ffed01ef6ffda659ad97.jpeg",
@@ -11,10 +11,10 @@
     "static/media/brow-lightning.jpeg": "/static/media/brow-lightning.2aa0aa15363c2542aa26.jpeg",
     "index.html": "/index.html",
     "main.6d7b0f3f.css.map": "/static/css/main.6d7b0f3f.css.map",
-    "main.67f1cfef.js.map": "/static/js/main.67f1cfef.js.map"
+    "main.583f5164.js.map": "/static/js/main.583f5164.js.map"
   },
   "entrypoints": [
     "static/css/main.6d7b0f3f.css",
-    "static/js/main.67f1cfef.js"
+    "static/js/main.583f5164.js"
   ]
 }
